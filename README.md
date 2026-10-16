@@ -8,17 +8,14 @@ An end-to-end sales performance, customer segmentation, and revenue leakage anal
 
 ### 1. Executive Sales Overview
 High-level summary tracking total revenue, monthly trends, regional distribution, category performance, and overall fulfillment health.
-*(Add your image path or link here)*
 ![Executive Sales Overview](https://github.com/abdulrafiumunirudeenakofe-Analyst/Sale-Analysis/blob/main/sale%20exc.PNG)
 
 ### 2. Product, Customer & Channel Performance
 Deep dive into product profitability, high-value customer identification, sales channel efficiency, and failure rates across channels.
-*(Add your image path or link here)*
 ![Product and Customer Performance](https://github.com/abdulrafiumunirudeenakofe-Analyst/Sale-Analysis/blob/main/sale%20pro.PNG)
 
 ### 3. Revenue Leakage & Opportunity
 Financial risk analysis mapping out refunds, cancellations, and operational bottlenecks by category, channel, and geographic region.
-*(Add your image path or link here)*
 ![Revenue Leakage and Opportunity](https://github.com/abdulrafiumunirudeenakofe-Analyst/Sale-Analysis/blob/main/sale%20rev.PNG )
 
 ---
